@@ -6,13 +6,23 @@ function App() {
 
 	return (
 		<>
-			<h1 className="text-red-600">WATCHX</h1>
-			<div className="card">
+			<h1 className="text-white sm:text-red-700 text-center">WATCHX</h1>
+			<div className="card text-center">
 				<button onClick={() => setCount((count) => count + 1)}>
 					count is {count}
 				</button>
-				<p>
-					Edit <code>src/App.jsx</code> and save to test HMR
+				<p className="text-wrap">
+					Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit
+					necessitatibus provident nihil quo temporibus ullam sit inventore
+					recusandae! Rem tenetur repellendus corporis sit reprehenderit
+					officiis porro accusantium qui, sed eaque cupiditate quidem
+					consequatur cum nobis minima culpa ex quis voluptatum aliquam debitis
+					optio inventore. Dolorem facere minima ab corporis hic ducimus. Veniam
+					cumque asperiores minus quidem voluptatum facilis vel maxime id! Id
+					repellendus repudiandae magni earum doloremque vitae quibusdam ducimus
+					illo aperiam, mollitia ab dolore nemo ad consequatur cum. Rem vitae
+					officiis dolorem non sint dolore nobis neque sit corporis animi,
+					maiores eum sed expedita autem modi illo consectetur quisquam.
 				</p>
 			</div>
 			<p className="read-the-docs">
