@@ -1,2 +1,0 @@
-# WATCHX
-# Starting the porject
